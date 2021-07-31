@@ -10,7 +10,7 @@
 2.นำโฟลเดอร์โปรเจคนี้ไปไว้ที่ C:\xampp\htdocs\ <br />
 3.เข้าโปรแกรม XAMPP และกดปุ่ม start Apache กับ MySQL server<br />
 4.เข้าไปที่ localhost/phpmyadmin และสร้าง Database ชื่อว่า registration<br />
-5.สร้างตารางซึ่งมี 7 column ชื่อว่า member  ในฐานข้อมูล registration และมีชื่อ column ตามรูปภาพด้านล่าง<br /> <br />
+5.สร้างตารางซึ่งมี 7 column ชื่อว่า member  ในฐานข้อมูล registration และมีชื่อ column โดยให้ idcard เป็น Primary Key ตามรูปภาพด้านล่าง<br /> <br />
 ![image](https://user-images.githubusercontent.com/79450551/127745055-494a0994-3714-493d-9af9-15047758b9e3.png)
 ![image](https://user-images.githubusercontent.com/79450551/127744377-3972d7fd-5114-4be4-b0ff-9414b63ad6d2.png)<br /> <br />
 6.สามารถเข้าไปทดสอบลงทะเบียนได้ด้วยการเข้า browser และใส่ localhost/<ชื่อโฟลเดอร์ของโปรเจค> ลงไป จะได้ดังรูปด้านล่าง <br /> <br />
