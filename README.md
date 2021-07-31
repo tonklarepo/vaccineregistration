@@ -29,7 +29,7 @@
 ![database](https://user-images.githubusercontent.com/79450551/127745278-2c4002a1-c289-40fe-8a7d-2edeb08e9f07.png) <br /> <br />
 2.JMeter (load test)  <br /> <br />
 * Number of Threads (users): 500
-* Loop Count: 4
+* Loop Count: 4 <br /> <br />
 ![image](https://user-images.githubusercontent.com/79450551/127745332-a392c620-fd9b-4a9e-8b86-3d79492e5bf0.png) <br /> <br />
 ![image](https://user-images.githubusercontent.com/79450551/127745417-7de81415-32fe-49bf-9d82-1e768b3d6143.png)
 
