@@ -39,7 +39,7 @@ session_start();
         echo '</script>';
         echo '<a href="index.html">กลับสู่หน้าหลัก</a>';
         return false;
-    } else if($_SESSION["countforvdate"] >= 3) {
+    } else if($_SESSION["countforvdate"] >= 3000) {
         echo '<script type="text/javascript">';
         echo ' alert("วันนี้คนลงทะเบียนครบแล้ว")';
         echo '</script>';
