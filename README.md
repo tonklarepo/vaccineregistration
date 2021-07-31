@@ -23,7 +23,14 @@
 10.สามารถกดปุ่ม "กดเพื่อรับ QRcode" เพื่อดู QRcode ของคุณได้ตามภาพด้านล่าง <br /> <br />
 ![หน้าQRcode(qrcode php)](https://user-images.githubusercontent.com/79450551/127744883-d708ad4a-2af7-4c54-9290-527dcff0cbcc.png) <br /> <br />
 11.เมื่อลองนำโทรศัพท์มา scan จะได้ผลลัพธ์ตามภาพ <br /> <br />
-![ตอนสแกน](https://user-images.githubusercontent.com/79450551/127744900-adaa295a-491e-40c2-90fe-016e21274927.jpg)
+![ตอนสแกน](https://user-images.githubusercontent.com/79450551/127744900-adaa295a-491e-40c2-90fe-016e21274927.jpg) <br /> <br />
+## ภาพหลังบ้าน (Database) และ Load test
+1.Database <br /> <br />
+![database](https://user-images.githubusercontent.com/79450551/127745278-2c4002a1-c289-40fe-8a7d-2edeb08e9f07.png) <br /> <br />
+2.JMeter (load test) <br /> <br />
+![image](https://user-images.githubusercontent.com/79450551/127745332-a392c620-fd9b-4a9e-8b86-3d79492e5bf0.png)
+
+
 
 
 
